@@ -81,6 +81,26 @@ nav li:hover {
     height: auto;
 }
 
+/*start of container2 css*/
+.sect2 {
+    background-color: #010028;
+    color: white;
+    padding: 1.5em;
+    text-align: center;
+    font-size: 1.3em;
+}
+.sect2 h1 {
+    font-size: 2.5em;
+}
+.sect2 h3 {
+    padding-bottom: 1em;
+}
+.sect2 a {
+    color:#2997ff;
+    text-decoration: none;
+}
+/*end of container2 css*/
+
 /*start of slideshow css*/
 
 body {
