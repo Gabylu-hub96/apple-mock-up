@@ -1,0 +1,24 @@
+
+
+/* start of footer css */
+footer {
+    background-color: #F5F5F7;
+    padding:1.5em;
+}
+
+footer ul {
+    list-style-type: none;
+}
+.footer_menu {
+    display: flex;
+  justify-content: space-around;
+
+  padding: 10px;
+  margin: 0;
+   border-top: 1px solid #d2d2d7; border-bottom: 1px solid #d2d2d7;
+}
+h4 {
+margin-block-start: 0.5em;
+margin-block-end: 0.5em;
+}
+  
